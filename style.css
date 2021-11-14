@@ -1,0 +1,40 @@
+/*
+Theme Name: Theme Name
+Theme URI: https://hashimputhiyakath.com/
+Author: Hashim Puthiyakath
+Author URI: https://hashimputhiyakath.com/
+Description: A theme for small business
+Version: 1.1
+Requires at least: 5.0
+Tested up to: 5.4
+Requires PHP: 7.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: emaraldtheme
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+body {
+    position: relative;
+    font-family: Lato;
+}
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.narrow-container {
+    max-width: 800px;
+}
